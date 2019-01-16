@@ -1,3 +1,0 @@
-# dannyhansen
-
-Lorem Ipsum
