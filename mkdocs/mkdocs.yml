@@ -1,0 +1,10 @@
+site_name: DannyHansen.nl
+theme: material
+#show_sidebar: false
+
+nav:
+    - Home: index.md
+    - CV : cv.md
+    - About: about.md
+    #     - 'Test' : 'about.md'
+    #     - 'Test2' : 'about.md'

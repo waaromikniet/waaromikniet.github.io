@@ -1,3 +1,0 @@
-# Welcome to DannyHansen.nl
-
-Lorem Ipsum......
