@@ -1,3 +1,3 @@
-# LS
+# waaromikniet.github.io
 
 Lorem Ipsum
